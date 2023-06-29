@@ -15,8 +15,7 @@ Simulink:
 
 Robot Structure:
 ![First](https://s8.uupload.ir/files/rsz_1img_2994_lbmq.jpg)
-![Second](https://s8.uupload.ir/files/rsz_img_2995_geh.jpg)
-![Third](https://s8.uupload.ir/files/rsz_img_3003_ydh.jpg)
+
 
 ## Authors
 

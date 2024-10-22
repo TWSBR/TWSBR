@@ -11,7 +11,7 @@ In order to test your systems, you can run gyrotest and motortest files separate
 ## Pictures
 
 Simulink:
-<img src="./figures/diagram.JPEG" alt="simulink" width="800" />
+<img src="./figures/diagram.JPG" alt="simulink" width="800" />
 
 Robot Structure:
 ![First](https://s8.uupload.ir/files/rsz_1img_2994_lbmq.jpg)

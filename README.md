@@ -1,5 +1,5 @@
 
-# Mini Self Balancing Robot
+# Two Wheeled Self Balancing Robot (Simulnik+Arduino+IMU)
 
 We developed a self-balancing robot for our mechatronics course using Simulink.
 
@@ -11,7 +11,7 @@ In order to test your systems, you can run gyrotest and motortest files separate
 ## Pictures
 
 Simulink:
-![Simulink](https://s8.uupload.ir/files/screenshot_2023-06-25_224021_mf14.png)
+<img src="./figures/diagram.JPEG" alt="simulink" width="800" />
 
 Robot Structure:
 ![First](https://s8.uupload.ir/files/rsz_1img_2994_lbmq.jpg)
